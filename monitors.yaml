@@ -1,0 +1,10 @@
+mobilenews:
+  url: "https://google.com" 
+  method: HTTPS
+  interval: 6m
+  timeout: 10s
+serit-mobilenews:
+  url: "https://facebook.com"
+  method: HTTPS
+  interval: 5m
+  timeout: 10s
